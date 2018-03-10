@@ -1,0 +1,2 @@
+# Safelinks2
+new
